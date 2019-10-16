@@ -7,6 +7,7 @@ namespace UselessApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! I am useless");
+            //Useless change
         }
     }
 }
